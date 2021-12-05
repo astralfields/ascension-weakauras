@@ -2,7 +2,7 @@
 
 This is a collection of my personal weakauras for Project Ascension.
 
-Please note that I use ElvUI and try to make most of my auras fit visually into ElvUI. This means that my bar textures will usually be ElvUI Blank and the font will be Expressway.
+Please note that I use ElvUI and try to make most of my auras fit visually into my setup. This means that my bar textures will usually be ElvUI Blank and the font will be Expressway.
 If you don't have these available, what you import will look slightly different.
 
 # Powerbars
@@ -21,3 +21,5 @@ The three icons are (left to right): Stack tracker and timer for the Harbinger o
 I didn't bother adding another icon for Coax to Darkness since it stacks in tandem with the Harbinger buff.
 
 The top bar tracks the cooldown of Haunt. The other three are timers for Insect Swarm: Plague, Devouring Plague, and Corruption on your current target. If you don't have a specific DoT on your target, there will be a reminder (you can just delete every aura with "Reminder" in its name if you don't want these).
+
+[I also have a video showcase of this setup available on YouTube.](https://www.youtube.com/watch?v=lmSZw-9HvqM)
