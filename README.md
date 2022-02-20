@@ -22,4 +22,8 @@ I didn't bother adding another icon for Coax to Darkness since it stacks in tand
 
 The top bar tracks the cooldown of Haunt. The other three are timers for Insect Swarm: Plague, Devouring Plague, and Corruption on your current target. If you don't have a specific DoT on your target, there will be a reminder (you can just delete every aura with "Reminder" in its name if you don't want these).
 
-[I also have a video showcase of this setup available on YouTube.](https://www.youtube.com/watch?v=lmSZw-9HvqM)
+[I have a video showcase of this setup available on YouTube.](https://www.youtube.com/watch?v=lmSZw-9HvqM)
+
+This should also work for the more single-target focused Spirit build which uses the Clear Mind RE instead of Coax to Darkness. If you're not using CtD, the icon and timer bar should simply not show up.
+
+**NEW:** Per a user's request, I have added a version of this aura set which also contains bars and reminders for Unstable Affliction and Shadow Word: Pain. You can find it in the file "Harbinger-UA". Please note that I have not tested this as I don't have these spells available.
